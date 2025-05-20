@@ -1,0 +1,8 @@
+backend
+GmbH
+pretix
+pretixPOS
+pretixPRINT
+pretixSCAN
+rami.io
+redemptions
