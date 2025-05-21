@@ -1,0 +1,7 @@
+extends: existence
+message: "Put the currency symbol in front of the number. Do not insert a space."
+ignorecase: true
+nonword: true
+level: error
+tokens:
+  - '[0-9]\s?[€$£]|[€$£]\s[0-9]'
