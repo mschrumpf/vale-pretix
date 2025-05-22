@@ -1,0 +1,14 @@
+---
+extends: existence
+message: Remove '%s'. It does not add anything of semantic value.
+link: https://css-tricks.com/words-avoid-educational-writing/
+level: error
+ignorecase: true
+tokens:
+ - make sure that 
+ - please 
+ - note that 
+ - necessary to note 
+ - important 
+ - critical 
+ - just 
