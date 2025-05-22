@@ -106,3 +106,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Remote packages 
+styles/alex
+styles/Joblint
+styles/Microsoft
+styles/proselint
+styles/write-good
