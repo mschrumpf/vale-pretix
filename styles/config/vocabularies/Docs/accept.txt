@@ -1,12 +1,18 @@
 backend
 embeddable
 GmbH
+Grice
+LLM
 nano
 pretix
 pretixPOS
 pretixPRINT
 pretixSCAN
 rami.io
+readme
 redemptions
+repo
+uncheck
 value-added tax
 virtualenvwrapper
+webpage

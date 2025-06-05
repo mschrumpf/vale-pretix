@@ -8,7 +8,7 @@ action:
 swap:
   "sufficient number(?: of)?": enough
   (?:extract|take away|eliminate): remove
-  (?:in order to|as a means to): to
+  as a means to: to
   (?:inform|let me know): tell
   (?:previous|prior) to: before
   (?:utilize|make use of): use
@@ -79,7 +79,6 @@ swap:
   in a careful manner: carefully
   in a thoughtful manner: thoughtfully
   in a timely manner: timely
-  in addition: also
   in an effort to: to
   in between: between
   in lieu of: instead of
