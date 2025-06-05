@@ -1,5 +1,7 @@
 backend
+embeddable
 GmbH
+nano
 pretix
 pretixPOS
 pretixPRINT
@@ -7,3 +9,4 @@ pretixSCAN
 rami.io
 redemptions
 value-added tax
+virtualenvwrapper
