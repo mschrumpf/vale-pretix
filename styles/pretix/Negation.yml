@@ -3,6 +3,8 @@ message: "Use bold face '%s' instead of '%s'."
 link: https://writethedocs.slack.com/archives/CBWQQ5E57/p1747825992391299?thread_ts=1747375876.904399&cid=CBWQQ5E57
 level: warning
 ignorecase: true
+scope: 
+    - raw
 action:
     name: replace
 swap:
