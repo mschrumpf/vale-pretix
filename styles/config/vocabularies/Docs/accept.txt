@@ -1,9 +1,13 @@
+Axess
 backend
+Ctrl
 embeddable
 distro
+distros
 GmbH
 Grice
 LLM
+LLMs
 nano
 pretix
 pretixPOS
@@ -17,3 +21,4 @@ uncheck
 value-added tax
 virtualenvwrapper
 webpage
+webpages
