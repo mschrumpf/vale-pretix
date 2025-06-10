@@ -32,6 +32,10 @@ $ vale ~/pretix-docs/docs/guides/index.md
 
  5. Use the output to improve your contribution to the pretix docs or to facilitate your review process. 
  
+ 6. Remember that **you are smarter than Vale**. 
+ Many of the rules have exceptions that cannot be reasonably defined in Vale. 
+ Use your own judgement instead of fixing every single thing that Vale detects as a problem. 
+ 
 ## Contributing 
 
 **Before you make any changes**, create a new branch to this repo. 
