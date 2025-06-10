@@ -1,17 +1,12 @@
 ---
-extends: existence
-message: Use boldface for '%s' in instructions. 
-link: 
-level: suggestion
+extends: substitution
+message: "Use bold face '%s' instead of '%s' if it is easy to overlook."
+link: https://github.com/errata-ai/vale/issues/1013#issuecomment-2949797094
+level: warning
 ignorecase: true
-tokens:
- - 'no[.!?[:space:]]'
- - 'not[.!?[:space:]]'
- - 'cannot[.!?[:space:]]'
- - 'never[.!?[:space:]]'
-exceptions: 
- - '\*\*no\*\*'
- - '\*\*not\*\*'
- - '\*\*cannot\*\*'
- - '\*\*never\*\*'
- - 0
+nonword: true
+scope: raw
+action:
+  name: replace
+swap:
+  '[\W]{1,2}(no|not|cannot|never)[\W]{1,2}': "**$1**"
