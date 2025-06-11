@@ -58,6 +58,7 @@ exceptions:
   - URL
   - USB
   - UTF
+  - VIP
   - XML
   - XSS
   - YAML

@@ -1,9 +1,9 @@
 Axess
-backend
+[bB]ackend
 Ctrl
-embeddable
-distro
-distros
+[eE]mbeddable
+[dD]istro
+[dD]istros
 GmbH
 Grice
 LLM
@@ -14,11 +14,14 @@ pretixPOS
 pretixPRINT
 pretixSCAN
 rami.io
-readme
-redemptions
-repo
-uncheck
-value-added tax
+[rR]eadme
+[rR]edemption
+[rR]edemptions
+[rR]epo
+[sS]ubevent
+[sS]ubevents
+[uU]ncheck
+[vV]alue-added tax
 virtualenvwrapper
-webpage
-webpages
+[wW]ebpage
+[wW]ebpages
