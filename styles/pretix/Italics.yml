@@ -1,5 +1,5 @@
 extends: existence
-message: "'%s' left in text."
+message: Don't use italics. Find another way to add emphasis.
 ignorecase: false
 level: warning
 scope: 
