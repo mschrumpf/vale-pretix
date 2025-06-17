@@ -1,0 +1,8 @@
+extends: existence
+message: "'%s' left in text."
+ignorecase: false
+level: warning
+scope: 
+   - raw
+tokens:
+   - '\b_\w*_\b'
