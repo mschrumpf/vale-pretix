@@ -1,8 +1,9 @@
 extends: existence
 message: Don't use italics. Find another way to add emphasis.
-ignorecase: false
 level: warning
+link: https://docs.couchbase.com/styleguide/italic.html
 scope: 
    - raw
 tokens:
-   - '\b_\w*_\b'
+   - '(?<!`)\b_\w.*?_\b(?!`)'
+   - '(?<!`)\b\*\w.*?\*\b(?!`)'
