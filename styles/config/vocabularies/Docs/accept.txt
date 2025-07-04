@@ -9,6 +9,9 @@ Grice
 LLM
 LLMs
 nano
+[pP]reselect
+[pP]reselected
+[pP]reselecting
 pretix
 pretixPOS
 pretixPRINT
