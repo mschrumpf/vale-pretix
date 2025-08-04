@@ -1,7 +1,11 @@
 Axess
 [bB]ackend
+Bixolon
+Boca
 Ctrl
 [eE]mbeddable
+[eE]mbedder
+Epson
 [dD]istro
 [dD]istros
 GmbH
@@ -23,6 +27,8 @@ rami.io
 [rR]epo
 [sS]ubevent
 [sS]ubevents
+Sunmi
+Teltonika
 [uU]ncheck
 [vV]alue-added tax
 virtualenvwrapper

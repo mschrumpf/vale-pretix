@@ -31,11 +31,14 @@ exceptions:
   - JAR
   - JSON
   - JSX
+  - LAN
+  - LED
   - LESS
   - LLDB
   - NET
   - NOTE
   - NVDA
+  - OLED
   - OSS
   - PATH
   - PDF
@@ -47,6 +50,7 @@ exceptions:
   - SCM
   - SCSS
   - SDK
+  - SIM
   - SQL
   - SSH
   - SSL
@@ -54,11 +58,14 @@ exceptions:
   - TBD
   - TCP
   - TODO
+  - UDP
   - URI
   - URL
   - USB
   - UTF
   - VIP
+  - WAN
+  - WLAN
   - XML
   - XSS
   - YAML
