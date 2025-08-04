@@ -2,6 +2,7 @@ extends: conditional
 message: "Explain '%s' the first time you use it on this page."
 link: https://docs.microsoft.com/en-us/style-guide/acronyms
 level: suggestion
+limit: 3
 ignorecase: false
 # Ensures that the existence of 'first' implies the existence of 'second'.
 first: '\b([A-Z]{3,5})\b'
