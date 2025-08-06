@@ -11,6 +11,7 @@ second: '(?:\b[A-Z][a-z]+ )+\(([A-Z]{3,5})\)'
 exceptions:
   - API
   - ASP
+  - BIC
   - CLI
   - CPU
   - CSS
@@ -28,6 +29,7 @@ exceptions:
   - HTML
   - HTTP
   - HTTPS
+  - IBAN
   - IDE
   - JAR
   - JSON
@@ -51,6 +53,7 @@ exceptions:
   - SCM
   - SCSS
   - SDK
+  - SEPA
   - SIM
   - SQL
   - SSH
