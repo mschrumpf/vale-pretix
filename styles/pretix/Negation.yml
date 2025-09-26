@@ -1,8 +1,8 @@
 ---
 extends: substitution
-message: "Use bold face '%s' instead of '%s' if it is easy to overlook."
+message: "Use bold face '%s' instead of '%s' in imperative sentences."
 link: https://github.com/errata-ai/vale/issues/1013#issuecomment-2949797094
-level: warning
+level: suggestion
 ignorecase: true
 nonword: true
 scope: raw

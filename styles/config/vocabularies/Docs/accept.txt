@@ -1,5 +1,6 @@
 Affirm
 Alipay
+AND-bracket(s)?
 Axess
 [bB]ackend
 Bancontact
@@ -16,10 +17,12 @@ GmbH
 Grice
 HubSpot
 iDEAL
+[iI]nfobox(es)?
 Klarna
 LLM(s)?
 Multibanco
 nano
+OR-bracket(s)?
 [pP]reselect(s|ed|ing)?
 pretix
 pretixLEAD
