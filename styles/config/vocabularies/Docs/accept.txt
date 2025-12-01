@@ -23,6 +23,7 @@ LLM(s)?
 Multibanco
 nano
 OR-bracket(s)?
+Pona
 [pP]reselect(s|ed|ing)?
 pretix
 pretixLEAD
@@ -34,11 +35,14 @@ rami.io
 [rR]eadme
 [rR]edemption(s)?
 [rR]epo
+[rR]epurpose(s|d|ing)?
 SOFORT
 [sS]ubevent(s)?
+[sS]ubmenu(s)?
 Sunmi
 Swish
 Teltonika
+Toki
 [uU]ncheck(s|ed|ing)?
 [vV]alue-added tax
 virtualenvwrapper
