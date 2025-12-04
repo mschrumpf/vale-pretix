@@ -7,6 +7,7 @@ Bancontact
 Bixolon
 Boca
 Ctrl
+[eE]mail(s)?
 [eE]mbeddable
 [eE]mbedder
 Epson
