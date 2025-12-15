@@ -4,6 +4,7 @@ AND-bracket(s)?
 Axess
 [bB]ackend
 Bancontact
+Bitwarden
 Bixolon
 Boca
 Ctrl
@@ -46,6 +47,8 @@ Teltonika
 Toki
 [uU]ncheck(s|ed|ing)?
 [vV]alue-added tax
+Vaultwarden
 virtualenvwrapper
 [wW]ebpage(s)?
 WeChat
+Yubikey(s)?
