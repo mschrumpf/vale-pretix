@@ -13,7 +13,6 @@ Ctrl
 [eE]mbedder
 Epson
 [dD]istro(s)?
-[dD]istros
 [gG]iropay
 GmbH
 Grice
@@ -23,7 +22,7 @@ iDEAL
 Klarna
 LLM(s)?
 Multibanco
-nano
+[nN]ano
 OR-bracket(s)?
 Pona
 [pP]reselect(s|ed|ing)?
@@ -51,4 +50,5 @@ Vaultwarden
 virtualenvwrapper
 [wW]ebpage(s)?
 WeChat
+Wero
 Yubikey(s)?
