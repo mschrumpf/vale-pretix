@@ -1,0 +1,7 @@
+extends: existence
+message: "Hier scheint ein Doppelpunkt zu fehlen: '%s'"
+ignorecase: true
+nonword: true
+level: warning
+tokens:
+  - ':navpath:[^:\n]*(:[^:\n]*?:([^:\n]*))*$'
