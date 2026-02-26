@@ -48,6 +48,7 @@ exceptions:
   - PATH
   - PDF
   - PHP
+  - PIN
   - POST
   - RAM
   - REPL
